@@ -33,6 +33,7 @@
 
 h1 {
 	text-align: center;
+	font-weight: bold;
 }
 
 span {
@@ -43,6 +44,7 @@ span {
 	line-height: 30px;
 	border: 1px solid black;
 	float: right;
+	font-weight: bold;
 }
 
 p {
